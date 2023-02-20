@@ -1,0 +1,21 @@
+.head {
+  display: flex;
+
+  justify-content: space-between;
+  max-width: 1149px;
+  height: 55px;
+}
+
+.head__menu__block {
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 180%;
+}
+.head__menu {
+  display: flex;
+  column-gap: 65px;
+  max-width: 479x;
+  height: 32px;
+}
